@@ -19,6 +19,4 @@ public:
     BinaryTree();
 
     void insert(int value);
-    void printInOrder(Node* node);
-    void print();
 };
