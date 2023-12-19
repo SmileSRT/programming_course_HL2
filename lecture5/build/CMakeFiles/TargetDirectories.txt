@@ -1,0 +1,3 @@
+/home/smile/documents/projects/lectures/lecture5/build/CMakeFiles/rebuild_cache.dir
+/home/smile/documents/projects/lectures/lecture5/build/CMakeFiles/edit_cache.dir
+/home/smile/documents/projects/lectures/lecture5/build/CMakeFiles/main.dir
